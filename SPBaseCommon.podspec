@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.1"
   s.summary      = "客户端工具类."
   s.description  = <<-DESC
-  内部http请求参数的生成，字符串MD5的加密，日期的格式化等
+                       内部http请求参数的生成，字符串MD5的加密，日期的格式化等
                    DESC
   s.homepage     = "https://github.com/Appleqq/SPBaseCommon"
   s.license      = "MIT"
